@@ -1,5 +1,5 @@
 {
-  "name": "04-primary-key-as-identity",
+  "name": "04-naming-a-primary-key-column",
   "version": "0.0.1",
   "description": "Awesome project developed with TypeORM.",
   "type": "commonjs",
